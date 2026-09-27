@@ -1,0 +1,902 @@
+{
+  "1": {
+    "id": 1,
+    "artist": "D'Angelo and The Vanguard",
+    "album": "Black Messiah",
+    "found_artist": "D\u2019Angelo and The Vanguard",
+    "found_album": "Black Messiah",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/01/38/24/01382463-de8c-2a33-f8fe-fb3a008dfc87/886444977449.jpg/600x600bb.jpg",
+    "local_path": "covers/001_DAngelo_and_The_Vanguard_Black_Messiah.jpg"
+  },
+  "2": {
+    "id": 2,
+    "artist": "Erykah Badu",
+    "album": "Mama's Gun",
+    "found_artist": "Erykah Badu",
+    "found_album": "Mama's Gun",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/63/9c/05/639c0568-e961-2146-f4cb-819a1f9226d3/06UMGIM01547.rgb.jpg/600x600bb.jpg",
+    "local_path": "covers/002_Erykah_Badu_Mamas_Gun.jpg"
+  },
+  "3": {
+    "id": 3,
+    "artist": "Sade",
+    "album": "Love Deluxe",
+    "found_artist": "Sade",
+    "found_album": "Love Deluxe",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/18/c8/d7/18c8d7bc-8491-09e6-df0d-6e0a83ead680/mzi.wsikzifg.jpg/600x600bb.jpg",
+    "local_path": "covers/003_Sade_Love_Deluxe.jpg"
+  },
+  "4": {
+    "id": 4,
+    "artist": "Cleo Sol",
+    "album": "Mother",
+    "found_artist": "Cleo Sol",
+    "found_album": "Mother",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/42/43/43/424343f4-7ef4-7d12-be44-fb24cc0d0137/859748545218_cover.jpg/600x600bb.jpg",
+    "local_path": "covers/004_Cleo_Sol_Mother.jpg"
+  },
+  "5": {
+    "id": 5,
+    "artist": "Hiatus Kaiyote",
+    "album": "Choose Your Weapon",
+    "found_artist": "Hiatus Kaiyote",
+    "found_album": "Choose Your Weapon",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ac/04/1a/ac041a3a-ac40-3820-01f0-982615c30c37/dj.fnoymdtg.jpg/600x600bb.jpg",
+    "local_path": "covers/005_Hiatus_Kaiyote_Choose_Your_Weapon.jpg"
+  },
+  "6": {
+    "id": 6,
+    "artist": "Sampha",
+    "album": "Process",
+    "found_artist": "Sampha",
+    "found_album": "Process",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/95/8d/ed/958ded66-ec58-2347-caa3-dfa2c0e417e1/889030015860.png/600x600bb.jpg",
+    "local_path": "covers/006_Sampha_Process.jpg"
+  },
+  "7": {
+    "id": 7,
+    "artist": "Jazmine Sullivan",
+    "album": "Heaux Tales",
+    "found_artist": "Jazmine Sullivan",
+    "found_album": "Heaux Tales",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e6/1e/43/e61e43e4-a8c9-2ddd-04f8-89df5515eadd/886448974314.jpg/600x600bb.jpg",
+    "local_path": "covers/007_Jazmine_Sullivan_Heaux_Tales.jpg"
+  },
+  "8": {
+    "id": 8,
+    "artist": "Moses Sumney",
+    "album": "Aromanticism",
+    "found_artist": "Moses Sumney",
+    "found_album": "Aromanticism",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/21/94/9b/21949b08-5196-bc25-aa2f-f560f8eed9cb/656605230863.jpg/600x600bb.jpg",
+    "local_path": "covers/008_Moses_Sumney_Aromanticism.jpg"
+  },
+  "9": {
+    "id": 9,
+    "artist": "Kelela",
+    "album": "Raven",
+    "found_artist": "Kelela",
+    "found_album": "Raven",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1c/f7/5e/1cf75e26-2b50-44f2-424d-41dc005d5095/5056614702828.png/600x600bb.jpg",
+    "local_path": "covers/009_Kelela_Raven.jpg"
+  },
+  "10": {
+    "id": 10,
+    "artist": "Blood Orange",
+    "album": "Freetown Sound",
+    "found_artist": "Blood Orange",
+    "found_album": "Freetown Sound",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c7/d0/eb/c7d0eb2b-05ed-132d-5d47-e65ee3770485/887828036967.png/600x600bb.jpg",
+    "local_path": "covers/010_Blood_Orange_Freetown_Sound.jpg"
+  },
+  "11": {
+    "id": 11,
+    "artist": "SiR",
+    "album": "Chasing Summer",
+    "found_artist": "SiR",
+    "found_album": "Chasing Summer",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/dc/aa/a8/dcaaa87d-8d60-d431-b203-f285cfa3d26c/886447892336_cover.jpg/600x600bb.jpg",
+    "local_path": "covers/011_SiR_Chasing_Summer.jpg"
+  },
+  "12": {
+    "id": 12,
+    "artist": "Snoh Aalegra",
+    "album": "Ugh, those feels again",
+    "found_artist": "Snoh Aalegra",
+    "found_album": "Ugh, those feels again",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ab/ff/37/abff374d-12d1-8533-1cbf-4cecc37dfcec/5056167116714_1.jpg/600x600bb.jpg",
+    "local_path": "covers/012_Snoh_Aalegra_Ugh,_those_feels_again.jpg"
+  },
+  "13": {
+    "id": 13,
+    "artist": "Leon Ware",
+    "album": "Musical Massage",
+    "found_artist": "Leon Ware",
+    "found_album": "Musical Massage (Expanded Edition)",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/20/2f/19/202f1920-131e-8d65-4f49-0b6a655e53f0/00044001899928.rgb.jpg/600x600bb.jpg",
+    "local_path": "covers/013_Leon_Ware_Musical_Massage.jpg"
+  },
+  "14": {
+    "id": 14,
+    "artist": "Meshell Ndegeocello",
+    "album": "Peace Beyond Passion",
+    "found_artist": "Meshell Ndegeocello",
+    "found_album": "Peace Beyond Passion",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/38/08/0c/mzi.nqnhxacp.jpg/600x600bb.jpg",
+    "local_path": "covers/014_Meshell_Ndegeocello_Peace_Beyond_Passion.jpg"
+  },
+  "15": {
+    "id": 15,
+    "artist": "Jordan Rakei",
+    "album": "Origin",
+    "found_artist": "Jordan Rakei",
+    "found_album": "Origin (Deluxe Edition)",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/d2/e8/d9d2e8ff-642a-732e-a4a7-7553af57e734/5054429141313.png/600x600bb.jpg",
+    "local_path": "covers/015_Jordan_Rakei_Origin.jpg"
+  },
+  "16": {
+    "id": 16,
+    "artist": "Cocteau Twins",
+    "album": "Heaven or Las Vegas",
+    "found_artist": "Cocteau Twins",
+    "found_album": "Heaven Or Las Vegas (Remastered)",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/76/cd/61/76cd61e7-0714-dce5-c48e-0f05f8fcb84b/652637001280.png/600x600bb.jpg",
+    "local_path": "covers/016_Cocteau_Twins_Heaven_or_Las_Vegas.jpg"
+  },
+  "17": {
+    "id": 17,
+    "artist": "Mazzy Star",
+    "album": "So Tonight That I Might See",
+    "found_artist": "Mazzy Star",
+    "found_album": "So Tonight That I Might See",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0f/03/ea/0f03ead1-d1eb-27fd-0734-b257b515692f/13UABIM59278.rgb.jpg/600x600bb.jpg",
+    "local_path": "covers/017_Mazzy_Star_So_Tonight_That_I_Might_See.jpg"
+  },
+  "18": {
+    "id": 18,
+    "artist": "Alvvays",
+    "album": "Blue Rev",
+    "found_artist": "Alvvays",
+    "found_album": "Blue Rev",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/57/d1/be/57d1be08-4faf-06b5-3de6-165b194e0091/5400863086077.png/600x600bb.jpg",
+    "local_path": "covers/018_Alvvays_Blue_Rev.jpg"
+  },
+  "19": {
+    "id": 19,
+    "artist": "Big Thief",
+    "album": "Dragon New Warm Mountain I Believe in You",
+    "found_artist": "Big Thief",
+    "found_album": "Dragon New Warm Mountain I Believe In You",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/14/c8/ea/14c8ea65-2155-8d44-f0c5-6faa8f51f95d/191400040878.png/600x600bb.jpg",
+    "local_path": "covers/019_Big_Thief_Dragon_New_Warm_Mountain_I_Believe_in_You.jpg"
+  },
+  "20": {
+    "id": 20,
+    "artist": "Slowdive",
+    "album": "Souvlaki",
+    "found_artist": "Slowdive",
+    "found_album": "Souvlaki",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c2/a0/a4/c2a0a495-ec33-27f1-c6db-0dff1c3ba15d/dj.pzrqoswp.jpg/600x600bb.jpg",
+    "local_path": "covers/020_Slowdive_Souvlaki.jpg"
+  },
+  "21": {
+    "id": 21,
+    "artist": "Men I Trust",
+    "album": "Oncle Jazz",
+    "found_artist": "Men I Trust",
+    "found_album": "Oncle Jazz",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/50/c6/94/50c694d6-36cd-8808-5da3-d677b7726b6c/artwork.jpg/600x600bb.jpg",
+    "local_path": "covers/021_Men_I_Trust_Oncle_Jazz.jpg"
+  },
+  "22": {
+    "id": 22,
+    "artist": "Beach House",
+    "album": "Bloom",
+    "found_artist": "Beach House",
+    "found_album": "Bloom",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8b/b7/08/8bb7086b-cdb5-1ffe-926b-e7637bda6a0d/BeachHouse_Bloom_iTunes.jpg/600x600bb.jpg",
+    "local_path": "covers/022_Beach_House_Bloom.jpg"
+  },
+  "23": {
+    "id": 23,
+    "artist": "Adrianne Lenker",
+    "album": "songs",
+    "found_artist": "Adrianne Lenker",
+    "found_album": "songs",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/70/f0/a6/70f0a6a5-cd71-9da2-174b-41927d331cdd/cover.jpg/600x600bb.jpg",
+    "local_path": "covers/023_Adrianne_Lenker_songs.jpg"
+  },
+  "24": {
+    "id": 24,
+    "artist": "Crumb",
+    "album": "Jinx",
+    "found_artist": "Crumb",
+    "found_album": "Jinx",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/83/13/f1/8313f143-ba0e-ee4c-eb85-5c259b1ec5e3/656605343648.jpg/600x600bb.jpg",
+    "local_path": "covers/024_Crumb_Jinx.jpg"
+  },
+  "25": {
+    "id": 25,
+    "artist": "Broadcast",
+    "album": "Tender Buttons",
+    "found_artist": "Broadcast",
+    "found_album": "Tender Buttons",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/51/f4/91/mzi.gcqyntqr.jpg/600x600bb.jpg",
+    "local_path": "covers/025_Broadcast_Tender_Buttons.jpg"
+  },
+  "26": {
+    "id": 26,
+    "artist": "Real Estate",
+    "album": "Days",
+    "found_artist": "Real Estate",
+    "found_album": "Days",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/aa/b6/f2/mzi.loqltsis.jpg/600x600bb.jpg",
+    "local_path": "covers/026_Real_Estate_Days.jpg"
+  },
+  "27": {
+    "id": 27,
+    "artist": "Wild Nothing",
+    "album": "Gemini",
+    "found_artist": "Wild Nothing",
+    "found_album": "Gemini",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/03/a9/0803a98c-7a36-55c0-bbed-764e6aca5ce2/cover.jpg/600x600bb.jpg",
+    "local_path": "covers/027_Wild_Nothing_Gemini.jpg"
+  },
+  "28": {
+    "id": 28,
+    "artist": "Camera Obscura",
+    "album": "Let's Get Out of This Country",
+    "found_artist": "Camera Obscura",
+    "found_album": "Let's Get Out of This Country",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2e/ac/aa/2eacaa44-dc46-f925-45b7-5b5dc05427ed/dj.xksrngqp.jpg/600x600bb.jpg",
+    "local_path": "covers/028_Camera_Obscura_Lets_Get_Out_of_This_Country.jpg"
+  },
+  "29": {
+    "id": 29,
+    "artist": "Japanese Breakfast",
+    "album": "Psychopomp",
+    "found_artist": "Japanese Breakfast",
+    "found_album": "Psychopomp",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/06/65/1a/06651aec-c055-3fd6-46fa-a125763e9f50/27251.jpg/600x600bb.jpg",
+    "local_path": "covers/029_Japanese_Breakfast_Psychopomp.jpg"
+  },
+  "30": {
+    "id": 30,
+    "artist": "Radiohead",
+    "album": "In Rainbows",
+    "found_artist": "Radiohead",
+    "found_album": "In Rainbows",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/dd/50/c7/dd50c790-99ac-d3d0-5ab8-e3891fb8fd52/634904032463.png/600x600bb.jpg",
+    "local_path": "covers/030_Radiohead_In_Rainbows.jpg"
+  },
+  "31": {
+    "id": 31,
+    "artist": "The Cure",
+    "album": "Disintegration",
+    "found_artist": "The Cure",
+    "found_album": "Disintegration (2010 Remaster)",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/93/3c/2c/mzi.ujtdsknz.jpg/600x600bb.jpg",
+    "local_path": "covers/031_The_Cure_Disintegration.jpg"
+  },
+  "32": {
+    "id": 32,
+    "artist": "Jeff Buckley",
+    "album": "Grace",
+    "found_artist": "Jeff Buckley",
+    "found_album": "Grace",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/26/d6/e3/26d6e339-a7a9-d61e-1b5f-0852a5515a55/886445517880.jpg/600x600bb.jpg",
+    "local_path": "covers/032_Jeff_Buckley_Grace.jpg"
+  },
+  "33": {
+    "id": 33,
+    "artist": "Elliott Smith",
+    "album": "Either/Or",
+    "found_artist": "Elliott Smith",
+    "found_album": "Either/Or",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ff/ea/28/ffea28a4-988a-f02e-7e1a-8566db3cab02/mzi.uoqucyoy.jpg/600x600bb.jpg",
+    "local_path": "covers/033_Elliott_Smith_Either_Or.jpg"
+  },
+  "34": {
+    "id": 34,
+    "artist": "PJ Harvey",
+    "album": "Stories from the City, Stories from the Sea",
+    "found_artist": "PJ Harvey",
+    "found_album": "Stories from the City, Stories from the Sea",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/4d/70/53/4d70536e-f463-3bfe-45e9-4274ce8bb33a/00731454814423.rgb.jpg/600x600bb.jpg",
+    "local_path": "covers/034_PJ_Harvey_Stories_from_the_City,_Stories_from_the_Sea.jpg"
+  },
+  "35": {
+    "id": 35,
+    "artist": "Sonic Youth",
+    "album": "Daydream Nation",
+    "found_artist": "Sonic Youth",
+    "found_album": "Daydream Nation (Deluxe Edition)",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9a/55/3b/9a553bab-12a5-a385-31b7-720087fa3130/818756010958_cover.jpg/600x600bb.jpg",
+    "local_path": "covers/035_Sonic_Youth_Daydream_Nation.jpg"
+  },
+  "36": {
+    "id": 36,
+    "artist": "Television",
+    "album": "Marquee Moon",
+    "found_artist": "Television",
+    "found_album": "Marquee Moon",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1b/6a/c1/1b6ac100-8d0e-ec9d-4639-88b11ed2cdad/603497886029.jpg/600x600bb.jpg",
+    "local_path": "covers/036_Television_Marquee_Moon.jpg"
+  },
+  "37": {
+    "id": 37,
+    "artist": "Pavement",
+    "album": "Crooked Rain, Crooked Rain",
+    "found_artist": "Pavement",
+    "found_album": "Crooked Rain, Crooked Rain: LA's Desert Origins",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c7/fe/0a/c7fe0a2c-16fa-9de9-3f64-330454c3d84f/744861061069.png/600x600bb.jpg",
+    "local_path": "covers/037_Pavement_Crooked_Rain,_Crooked_Rain.jpg"
+  },
+  "38": {
+    "id": 38,
+    "artist": "Fugazi",
+    "album": "The Argument",
+    "found_artist": "Fugazi",
+    "found_album": "The Argument",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/y2005/m04/d13/h11/s05.xaqxiqox.jpg/600x600bb.jpg",
+    "local_path": "covers/038_Fugazi_The_Argument.jpg"
+  },
+  "39": {
+    "id": 39,
+    "artist": "Built to Spill",
+    "album": "Perfect from Now On",
+    "found_artist": "Built to Spill",
+    "found_album": "Perfect from Now On",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/48/bb/21/48bb2111-970c-0115-134c-e7c98f2b2499/mzi.kxoduptv.jpg/600x600bb.jpg",
+    "local_path": "covers/039_Built_to_Spill_Perfect_from_Now_On.jpg"
+  },
+  "40": {
+    "id": 40,
+    "artist": "Sleater-Kinney",
+    "album": "The Woods",
+    "found_artist": "Sleater-Kinney",
+    "found_album": "The Woods (Bonus Track Version)",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/09/5d/07/095d07f5-b349-5802-a823-04c386fe0675/SleaterKinney_TheWoods_1425px.jpg/600x600bb.jpg",
+    "local_path": "covers/040_Sleater-Kinney_The_Woods.jpg"
+  },
+  "41": {
+    "id": 41,
+    "artist": "The Breeders",
+    "album": "Last Splash",
+    "found_artist": "The Breeders",
+    "found_album": "Last Splash (30th Anniversary Edition)",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/48/48/b1/4848b127-2daa-bcd0-84f6-346851cec648/191400061156.png/600x600bb.jpg",
+    "local_path": "covers/041_The_Breeders_Last_Splash.jpg"
+  },
+  "42": {
+    "id": 42,
+    "artist": "St. Vincent",
+    "album": "Strange Mercy",
+    "found_artist": "St. Vincent",
+    "found_album": "Strange Mercy",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e6/87/65/e687653d-686c-5333-0596-17e9534c4a9e/652637312362.png/600x600bb.jpg",
+    "local_path": "covers/042_St._Vincent_Strange_Mercy.jpg"
+  },
+  "43": {
+    "id": 43,
+    "artist": "The Roots",
+    "album": "Things Fall Apart",
+    "found_artist": "The Roots",
+    "found_album": "Things Fall Apart",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/93/71/d3/9371d36d-3498-2534-fc78-ea209f944c23/06UMGIM02261.rgb.jpg/600x600bb.jpg",
+    "local_path": "covers/043_The_Roots_Things_Fall_Apart.jpg"
+  },
+  "44": {
+    "id": 44,
+    "artist": "Common",
+    "album": "Like Water for Chocolate",
+    "found_artist": "Common",
+    "found_album": "Like Water For Chocolate",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a3/2d/1d/a32d1d4f-b47a-fa0c-12af-5e85c4f4905a/00008811238025.rgb.jpg/600x600bb.jpg",
+    "local_path": "covers/044_Common_Like_Water_for_Chocolate.jpg"
+  },
+  "45": {
+    "id": 45,
+    "artist": "GZA",
+    "album": "Liquid Swords",
+    "found_artist": "GZA",
+    "found_album": "Liquid Swords",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/13/f6/27/13f62737-00fa-e459-5306-961cbbdfe685/00602547742261.rgb.jpg/600x600bb.jpg",
+    "local_path": "covers/045_GZA_Liquid_Swords.jpg"
+  },
+  "46": {
+    "id": 46,
+    "artist": "Raekwon",
+    "album": "Only Built 4 Cuban Linx...",
+    "found_artist": "Raekwon",
+    "found_album": "Only Built 4 Cuban Linx...",
+    "artwork_url": "https://upload.wikimedia.org/wikipedia/en/1/17/Raekwon_only.jpg",
+    "local_path": "covers/046_Raekwon_Only_Built_4_Cuban_Linx....jpg"
+  },
+  "47": {
+    "id": 47,
+    "artist": "Saba",
+    "album": "CARE FOR ME",
+    "found_artist": "Cashma",
+    "found_album": "Care For Me - Single",
+    "artwork_url": "https://upload.wikimedia.org/wikipedia/en/d/da/This_is_the_cover_art_for_CARE_FOR_ME_by_Saba._The_cover_art_copyright_is_believed_to_belong_to_the_label%2C_Saba_PIVOT%2C_or_the_graphic_artist%28s%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "local_path": "covers/047_Saba_CARE_FOR_ME.jpg"
+  },
+  "48": {
+    "id": 48,
+    "artist": "De La Soul",
+    "album": "Buhloone Mindstate",
+    "found_artist": "De La Soul",
+    "found_album": "Buhloone Mindstate",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/85/a0/2c/85a02c4e-42ba-fee9-ca30-5d82ec882267/810098505987.png/600x600bb.jpg",
+    "local_path": "covers/048_De_La_Soul_Buhloone_Mindstate.jpg"
+  },
+  "49": {
+    "id": 49,
+    "artist": "Noname",
+    "album": "Room 25",
+    "found_artist": "Noname",
+    "found_album": "Room 25",
+    "artwork_url": "https://upload.wikimedia.org/wikipedia/en/f/f8/Room_25_cover.jpg",
+    "local_path": "covers/049_Noname_Room_25.jpg"
+  },
+  "50": {
+    "id": 50,
+    "artist": "Lupe Fiasco",
+    "album": "Lupe Fiasco's Food & Liquor",
+    "found_artist": "Lupe Fiasco",
+    "found_album": "Lupe Fiasco's Food & Liquor",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/78/d5/26/mzi.qcmcushu.jpg/600x600bb.jpg",
+    "local_path": "covers/050_Lupe_Fiasco_Lupe_Fiascos_Food_and_Liquor.jpg"
+  },
+  "51": {
+    "id": 51,
+    "artist": "Black Thought & Danger Mouse",
+    "album": "Cheat Codes",
+    "found_artist": "Danger Mouse & Black Thought",
+    "found_album": "Cheat Codes",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/70/50/71/705071c5-8083-7bab-0cb9-b3d8d0536dce/4099964283877.jpg/600x600bb.jpg",
+    "local_path": "covers/051_Black_Thought_and_Danger_Mouse_Cheat_Codes.jpg"
+  },
+  "52": {
+    "id": 52,
+    "artist": "Gang Starr",
+    "album": "Moment of Truth",
+    "found_artist": "Gang Starr",
+    "found_album": "Moment of Truth",
+    "artwork_url": "https://upload.wikimedia.org/wikipedia/en/e/eb/Gangstarrmomentoftruth.jpg",
+    "local_path": "covers/052_Gang_Starr_Moment_of_Truth.jpg"
+  },
+  "53": {
+    "id": 53,
+    "artist": "Ghostface Killah",
+    "album": "Supreme Clientele",
+    "found_artist": "Ghostface Killah",
+    "found_album": "Supreme Clientele",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/1b/fa/2a/mzi.kylfgjuv.jpg/600x600bb.jpg",
+    "local_path": "covers/053_Ghostface_Killah_Supreme_Clientele.jpg"
+  },
+  "54": {
+    "id": 54,
+    "artist": "Slick Rick",
+    "album": "The Great Adventures of Slick Rick",
+    "found_artist": "Slick Rick",
+    "found_album": "The Great Adventures of Slick Rick",
+    "artwork_url": "https://upload.wikimedia.org/wikipedia/en/c/c9/SlickRickTheGreatAdventuresofSlickRick.jpg",
+    "local_path": "covers/054_Slick_Rick_The_Great_Adventures_of_Slick_Rick.jpg"
+  },
+  "55": {
+    "id": 55,
+    "artist": "clipping.",
+    "album": "There Existed an Addiction to Blood",
+    "found_artist": "clipping.",
+    "found_album": "There Existed an Addiction to Blood",
+    "artwork_url": "https://upload.wikimedia.org/wikipedia/en/0/00/Clipping._-_There_Existed_an_Addiction_to_Blood_cover.png",
+    "local_path": "covers/055_clipping._There_Existed_an_Addiction_to_Blood.jpg"
+  },
+  "56": {
+    "id": 56,
+    "artist": "Danny Brown",
+    "album": "Atrocity Exhibition",
+    "found_artist": "Danny Brown",
+    "found_album": "Atrocity Exhibition",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c3/ac/b5/c3acb547-3654-12d0-ee40-05c7489bf75f/5056818811753.png/600x600bb.jpg",
+    "local_path": "covers/056_Danny_Brown_Atrocity_Exhibition.jpg"
+  },
+  "57": {
+    "id": 57,
+    "artist": "Gillian Welch",
+    "album": "Time (The Revelator)",
+    "found_artist": "Gillian Welch",
+    "found_album": "Time (The Revelator)",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/e1/e3/fe/e1e3fe7a-2529-7693-875a-d2d5d6ae53a1/dj.chvgianr.tif/600x600bb.jpg",
+    "local_path": "covers/057_Gillian_Welch_Time_(The_Revelator).jpg"
+  },
+  "58": {
+    "id": 58,
+    "artist": "Jason Isbell",
+    "album": "Southeastern",
+    "found_artist": "Jason Isbell",
+    "found_album": "Southeastern",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/bf/91/d6/bf91d61c-303b-1e25-d82c-2cf671fc7e14/886443984929.jpg/600x600bb.jpg",
+    "local_path": "covers/058_Jason_Isbell_Southeastern.jpg"
+  },
+  "59": {
+    "id": 59,
+    "artist": "Lucinda Williams",
+    "album": "Car Wheels on a Gravel Road",
+    "found_artist": "Lucinda Williams",
+    "found_album": "Car Wheels On a Gravel Road",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7b/3a/55/7b3a5503-e015-2074-7aeb-c93c745b4cb7/06UMGIM05369.rgb.jpg/600x600bb.jpg",
+    "local_path": "covers/059_Lucinda_Williams_Car_Wheels_on_a_Gravel_Road.jpg"
+  },
+  "60": {
+    "id": 60,
+    "artist": "Emmylou Harris",
+    "album": "Wrecking Ball",
+    "found_artist": "Emmylou Harris",
+    "found_album": "Wrecking Ball",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/bf/86/50/bf86508b-8390-fb23-eb78-eea999e32c07/075597955699.jpg/600x600bb.jpg",
+    "local_path": "covers/060_Emmylou_Harris_Wrecking_Ball.jpg"
+  },
+  "61": {
+    "id": 61,
+    "artist": "Brandi Carlile",
+    "album": "By the Way, I Forgive You",
+    "found_artist": "Brandi Carlile",
+    "found_album": "By The Way, I Forgive You",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/de/fb/dc/defbdc21-b070-7958-289f-13afa90186c2/075679885449.jpg/600x600bb.jpg",
+    "local_path": "covers/061_Brandi_Carlile_By_the_Way,_I_Forgive_You.jpg"
+  },
+  "62": {
+    "id": 62,
+    "artist": "John Prine",
+    "album": "John Prine",
+    "found_artist": "John Prine",
+    "found_album": "John Prine",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/70/1f/ec/701fec1e-e9c0-6f34-9d0e-43eca7ae1e6a/603497887583.jpg/600x600bb.jpg",
+    "local_path": "covers/062_John_Prine_John_Prine.jpg"
+  },
+  "63": {
+    "id": 63,
+    "artist": "Townes Van Zandt",
+    "album": "Townes Van Zandt",
+    "found_artist": "Townes Van Zandt",
+    "found_album": "Townes Van Zandt",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8c/0a/5f/8c0a5f2a-2cd5-df83-032d-7c25a9392f38/886446251875.jpg/600x600bb.jpg",
+    "local_path": "covers/063_Townes_Van_Zandt_Townes_Van_Zandt.jpg"
+  },
+  "64": {
+    "id": 64,
+    "artist": "Sturgill Simpson",
+    "album": "Metamodern Sounds in Country Music",
+    "found_artist": "Sturgill Simpson",
+    "found_album": "Metamodern Sounds in Country Music",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/24/5c/b1/245cb120-748e-982d-2bb9-4c21523e1b67/886444551298.jpg/600x600bb.jpg",
+    "local_path": "covers/064_Sturgill_Simpson_Metamodern_Sounds_in_Country_Music.jpg"
+  },
+  "65": {
+    "id": 65,
+    "artist": "Sierra Ferrell",
+    "album": "Trail of Flowers",
+    "found_artist": "Sierra Ferrell",
+    "found_album": "Trail Of Flowers",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/01/ee/fa/01eefa4e-690e-828a-ff09-f063d885f45d/23CRGIM38477.rgb.jpg/600x600bb.jpg",
+    "local_path": "covers/065_Sierra_Ferrell_Trail_of_Flowers.jpg"
+  },
+  "66": {
+    "id": 66,
+    "artist": "Margo Price",
+    "album": "Midwest Farmer's Daughter",
+    "found_artist": "Margo Price",
+    "found_album": "Midwest Farmer's Daughter",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/05/bc/85/05bc8515-a2b1-3a53-b266-151273eff771/60620.jpg/600x600bb.jpg",
+    "local_path": "covers/066_Margo_Price_Midwest_Farmers_Daughter.jpg"
+  },
+  "67": {
+    "id": 67,
+    "artist": "Tyler Childers",
+    "album": "Purgatory",
+    "found_artist": "Tyler Childers",
+    "found_album": "Purgatory",
+    "artwork_url": "https://upload.wikimedia.org/wikipedia/en/1/14/Tyler_Childers_-_Purgatory.png",
+    "local_path": "covers/067_Tyler_Childers_Purgatory.jpg"
+  },
+  "68": {
+    "id": 68,
+    "artist": "Julia Jacklin",
+    "album": "Crushing",
+    "found_artist": "Julia Jacklin",
+    "found_album": "Crushing",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bd/13/4f/bd134f31-d494-a64b-43c7-84511f2e92ab/644110037893.png/600x600bb.jpg",
+    "local_path": "covers/068_Julia_Jacklin_Crushing.jpg"
+  },
+  "70": {
+    "id": 70,
+    "artist": "Madi Diaz",
+    "album": "History of a Feeling",
+    "found_artist": "Madi Diaz",
+    "found_album": "History of a Feeling",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/71/30/6e/71306e2f-62d5-db79-3ef6-c42ffbdfd5f8/0045778782062.png/600x600bb.jpg",
+    "local_path": "covers/070_Madi_Diaz_History_of_a_Feeling.jpg"
+  },
+  "71": {
+    "id": 71,
+    "artist": "Kate Bush",
+    "album": "Hounds of Love",
+    "found_artist": "Kate Bush",
+    "found_album": "Hounds of Love (2018 Remaster)",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/62/97/32/62973286-5bb3-0de7-c051-8b2de8d95472/cover.jpg/600x600bb.jpg",
+    "local_path": "covers/071_Kate_Bush_Hounds_of_Love.jpg"
+  },
+  "72": {
+    "id": 72,
+    "artist": "Bj\u00f6rk",
+    "album": "Homogenic",
+    "found_artist": "Bj\u00f6rk",
+    "found_album": "Homogenic",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7f/bd/d0/7fbdd0e0-c588-ef4b-a6dd-4dca21f8b41f/081227607364.jpg/600x600bb.jpg",
+    "local_path": "covers/072_Bj\u00f6rk_Homogenic.jpg"
+  },
+  "73": {
+    "id": 73,
+    "artist": "Weyes Blood",
+    "album": "Titanic Rising",
+    "found_artist": "Weyes Blood",
+    "found_album": "Titanic Rising",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/54/f6/fc/54f6fc73-6a18-d97a-a634-a4630ec35593/WeyesBlood_TitanicRising_3600.jpg/600x600bb.jpg",
+    "local_path": "covers/073_Weyes_Blood_Titanic_Rising.jpg"
+  },
+  "74": {
+    "id": 74,
+    "artist": "FKA twigs",
+    "album": "MAGDALENE",
+    "found_artist": "FKA twigs",
+    "found_album": "Cellophane - Single",
+    "artwork_url": "https://upload.wikimedia.org/wikipedia/en/9/91/FKATwigs_Magdalene.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "local_path": "covers/074_FKA_twigs_MAGDALENE.jpg"
+  },
+  "75": {
+    "id": 75,
+    "artist": "Caroline Polachek",
+    "album": "Desire, I Want to Turn Into You",
+    "found_artist": "Caroline Polachek",
+    "found_album": "Desire, I Want to Turn Into You",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/10/51/f2/1051f2cc-195f-ddb6-2d9e-26c74f0387fd/197187988518.jpg/600x600bb.jpg",
+    "local_path": "covers/075_Caroline_Polachek_Desire,_I_Want_to_Turn_Into_You.jpg"
+  },
+  "76": {
+    "id": 76,
+    "artist": "Janelle Mon\u00e1e",
+    "album": "The ArchAndroid",
+    "found_artist": "Janelle Mon\u00e1e",
+    "found_album": "The ArchAndroid (Deluxe)",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9f/12/48/9f124811-b7e8-3312-a27f-b54a553cc644/mzi.rndulspu.jpg/600x600bb.jpg",
+    "local_path": "covers/076_Janelle_Mon\u00e1e_The_ArchAndroid.jpg"
+  },
+  "77": {
+    "id": 77,
+    "artist": "Jessie Ware",
+    "album": "What's Your Pleasure?",
+    "found_artist": "Jessie Ware",
+    "found_album": "What's Your Pleasure?",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/47/03/39/47033970-a97a-e001-c84f-05365bd02f18/20UMGIM08956.rgb.jpg/600x600bb.jpg",
+    "local_path": "covers/077_Jessie_Ware_Whats_Your_Pleasure.jpg"
+  },
+  "78": {
+    "id": 78,
+    "artist": "Robyn",
+    "album": "Body Talk",
+    "found_artist": "Robyn",
+    "found_album": "Body Talk, Pt. 3 - EP",
+    "artwork_url": "https://upload.wikimedia.org/wikipedia/en/c/cd/Body_Talk_by_Robyn.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "local_path": "covers/078_Robyn_Body_Talk.jpg"
+  },
+  "79": {
+    "id": 79,
+    "artist": "Rina Sawayama",
+    "album": "SAWAYAMA",
+    "found_artist": "Rina Sawayama",
+    "found_album": "Cherry - Single",
+    "artwork_url": "https://upload.wikimedia.org/wikipedia/en/8/83/Sawayama_by_Rina_Sawayama_album_cover_%28digital%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "local_path": "covers/079_Rina_Sawayama_SAWAYAMA.jpg"
+  },
+  "80": {
+    "id": 80,
+    "artist": "Madonna",
+    "album": "Ray of Light",
+    "found_artist": "Madonna",
+    "found_album": "Ray of Light",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/dd/2b/8d/dd2b8d84-e032-94d2-473a-3f8efd18fe36/dj.rwfgroxa.jpg/600x600bb.jpg",
+    "local_path": "covers/080_Madonna_Ray_of_Light.jpg"
+  },
+  "81": {
+    "id": 81,
+    "artist": "Imogen Heap",
+    "album": "Speak for Yourself",
+    "found_artist": "Imogen Heap",
+    "found_album": "Speak for Yourself (Deluxe Version)",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e3/ac/ac/e3acac09-d933-bd4c-e6e1-3d66dc66bac2/886445364729_cover.jpg/600x600bb.jpg",
+    "local_path": "covers/081_Imogen_Heap_Speak_for_Yourself.jpg"
+  },
+  "82": {
+    "id": 82,
+    "artist": "Rosal\u00eda",
+    "album": "MOTOMAMI",
+    "found_artist": "Rosal\u00eda",
+    "found_album": "MOTOMAMI",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5b/da/8d/5bda8d04-7f2f-4417-12a0-e039dd011152/886449800193.jpg/600x600bb.jpg",
+    "local_path": "covers/082_Rosal\u00eda_MOTOMAMI.jpg"
+  },
+  "83": {
+    "id": 83,
+    "artist": "Christine and the Queens",
+    "album": "Chris",
+    "found_artist": "Christine and the Queens",
+    "found_album": "Chris",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9e/33/bb/9e33bbbe-a2f3-556a-8324-4d616437ea63/5060525436871_cover.jpg/600x600bb.jpg",
+    "local_path": "covers/083_Christine_and_the_Queens_Chris.jpg"
+  },
+  "84": {
+    "id": 84,
+    "artist": "Charli xcx",
+    "album": "BRAT",
+    "found_artist": "Charli xcx",
+    "found_album": "BRAT",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/21/3b/e2213b51-6d62-8ef0-b19a-d78ec0f873d8/075679626998.jpg/600x600bb.jpg",
+    "local_path": "covers/084_Charli_xcx_BRAT.jpg"
+  },
+  "85": {
+    "id": 85,
+    "artist": "Massive Attack",
+    "album": "Mezzanine",
+    "found_artist": "Massive Attack",
+    "found_album": "Mezzanine (Deluxe)",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8a/c1/04/8ac104fb-d37e-1433-5d2e-805710d7a7c4/00602567930983.rgb.jpg/600x600bb.jpg",
+    "local_path": "covers/085_Massive_Attack_Mezzanine.jpg"
+  },
+  "86": {
+    "id": 86,
+    "artist": "Portishead",
+    "album": "Dummy",
+    "found_artist": "Portishead",
+    "found_album": "Dummy",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c1/71/93/c1719342-df7d-e9c5-c87c-53dae5afb289/00042282855329.rgb.jpg/600x600bb.jpg",
+    "local_path": "covers/086_Portishead_Dummy.jpg"
+  },
+  "87": {
+    "id": 87,
+    "artist": "Burial",
+    "album": "Untrue",
+    "found_artist": "Burial",
+    "found_album": "Untrue",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9d/0f/1c/9d0f1c2b-2fae-d8ac-3920-ce9ec5bc85b5/7982.jpg/600x600bb.jpg",
+    "local_path": "covers/087_Burial_Untrue.jpg"
+  },
+  "88": {
+    "id": 88,
+    "artist": "The xx",
+    "album": "xx",
+    "found_artist": "The xx",
+    "found_album": "xx (Deluxe)",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/59/df/6b/59df6bec-17f5-b578-aee2-b1a772d2ab9b/889030044761.png/600x600bb.jpg",
+    "local_path": "covers/088_The_xx_xx.jpg"
+  },
+  "89": {
+    "id": 89,
+    "artist": "Boards of Canada",
+    "album": "Music Has the Right to Children",
+    "found_artist": "Boards of Canada",
+    "found_album": "Music Has the Right to Children",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/b5/4c/c2/b54cc20d-03f5-f2c4-4a0d-9b51ad65af89/dj.txuslqgv.jpg/600x600bb.jpg",
+    "local_path": "covers/089_Boards_of_Canada_Music_Has_the_Right_to_Children.jpg"
+  },
+  "90": {
+    "id": 90,
+    "artist": "James Blake",
+    "album": "James Blake",
+    "found_artist": "James Blake",
+    "found_album": "James Blake",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c4/6b/7c/c46b7cd6-8514-2098-7efa-83790c3d4879/00602527614854.rgb.jpg/600x600bb.jpg",
+    "local_path": "covers/090_James_Blake_James_Blake.jpg"
+  },
+  "91": {
+    "id": 91,
+    "artist": "Four Tet",
+    "album": "Rounds",
+    "found_artist": "Four Tet",
+    "found_album": "Rounds",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/4a/82/02/mzi.wggtbdbs.jpg/600x600bb.jpg",
+    "local_path": "covers/091_Four_Tet_Rounds.jpg"
+  },
+  "92": {
+    "id": 92,
+    "artist": "Kelly Lee Owens",
+    "album": "Inner Song",
+    "found_artist": "Kelly Lee Owens",
+    "found_album": "Inner Song",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b4/6a/bc/b46abc53-1632-7310-78af-57d753afd06e/35595.jpg/600x600bb.jpg",
+    "local_path": "covers/092_Kelly_Lee_Owens_Inner_Song.jpg"
+  },
+  "93": {
+    "id": 93,
+    "artist": "Sufjan Stevens",
+    "album": "Carrie & Lowell",
+    "found_artist": "Sufjan Stevens",
+    "found_album": "Carrie & Lowell",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ba/61/bc/ba61bcaf-2034-f13e-6f66-fdb578d618dc/656605609966.jpg/600x600bb.jpg",
+    "local_path": "covers/093_Sufjan_Stevens_Carrie_and_Lowell.jpg"
+  },
+  "94": {
+    "id": 94,
+    "artist": "The Brilliance",
+    "album": "Brother",
+    "found_artist": "The Brilliance",
+    "found_album": "Brother",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/40/27/52/402752e0-3376-9b6c-2651-dbc785349542/859724647226_cover.jpg/600x600bb.jpg",
+    "local_path": "covers/094_The_Brilliance_Brother.jpg"
+  },
+  "95": {
+    "id": 95,
+    "artist": "John Mark McMillan",
+    "album": "Mercury & Lightning",
+    "found_artist": "John Mark McMillan",
+    "found_album": "Mercury & Lightning",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/72/bd/ca/72bdca8b-0cff-c893-e8fb-430efebf13c2/752830894327.jpg/600x600bb.jpg",
+    "local_path": "covers/095_John_Mark_McMillan_Mercury_and_Lightning.jpg"
+  },
+  "96": {
+    "id": 96,
+    "artist": "Liz Vice",
+    "album": "There's a Light",
+    "found_artist": "Liz Vice",
+    "found_album": "There's a Light",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/30/51/fb/3051fbb3-59fd-77a8-e678-05f74365ddbd/886445438543.jpg/600x600bb.jpg",
+    "local_path": "covers/096_Liz_Vice_Theres_a_Light.jpg"
+  },
+  "97": {
+    "id": 97,
+    "artist": "Citizens",
+    "album": "A Thousand Shores",
+    "found_artist": "Citizens",
+    "found_album": "A Thousand Shores",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/10/58/91/1058913d-a3ac-4b9e-a8ea-4a3842bb5ed1/0000768759288.png/600x600bb.jpg",
+    "local_path": "covers/097_Citizens_A_Thousand_Shores.jpg"
+  },
+  "98": {
+    "id": 98,
+    "artist": "Rivers & Robots",
+    "album": "The Eternal Son",
+    "found_artist": "Rivers & Robots",
+    "found_album": "The Eternal Son",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/31/e1/36/31e13614-0801-a57e-3f6b-2b96fc9313ac/859717197905_cover.jpg/600x600bb.jpg",
+    "local_path": "covers/098_Rivers_and_Robots_The_Eternal_Son.jpg"
+  },
+  "99": {
+    "id": 99,
+    "artist": "Josh Garrels",
+    "album": "Love & War & The Sea In Between",
+    "found_artist": "Josh Garrels",
+    "found_album": "Love & War & The Sea In Between",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/eb/38/6e/eb386ea3-b158-cc9b-d4c8-3ce24adb6a1b/884502404937.jpg/600x600bb.jpg",
+    "local_path": "covers/099_Josh_Garrels_Love_and_War_and_The_Sea_In_Between.jpg"
+  },
+  "100": {
+    "id": 100,
+    "artist": "All Sons & Daughters",
+    "album": "Poets & Saints",
+    "found_artist": "All Sons & Daughters",
+    "found_album": "Poets & Saints",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c0/d4/84/c0d48469-41aa-1aec-f3d9-c9d121d5fdb9/0000768655740.png/600x600bb.jpg",
+    "local_path": "covers/100_All_Sons_and_Daughters_Poets_and_Saints.jpg"
+  },
+  "69": {
+    "id": 69,
+    "artist": "Lucy Dacus",
+    "album": "Home Video",
+    "found_artist": "Lucy Dacus",
+    "found_album": "Home Video",
+    "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cb/cb/24/cbcb2433-3345-dfcb-9357-949bcb1cf883/191401173674.png/600x600bb.jpg",
+    "local_path": "covers/069_Lucy_Dacus_Home_Video.jpg"
+  }
+}
